@@ -18,4 +18,4 @@ mitigate cognitive overload
 mockups -> mockup screenshots 
 design-rationale.pdf -> explanation document 
 
-##figma link 
+##figma link -> https://www.figma.com/design/0L6IRclw5xlDyqAj2C9xWE/PM-Assignment?node-id=1001-55&t=6Pg6vMr5h8RT9naI-1
